@@ -1,0 +1,6 @@
+gym==0.19.0
+pyglet==1.5.20
+Box2D
+box2d-py
+pygame==2.0.1
+matplotlib==1.16.0
